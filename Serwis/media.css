@@ -1,0 +1,356 @@
+@media (max-width: 576px) {
+    * {
+        font-size: 8px;
+    }
+    .footer h4{
+        margin-top:4rem;
+    }
+    .header {
+        background-image: url(./img/bcg-small.png);
+        min-height: 640px;
+        padding:2rem;
+    }
+
+    .header-paragraph .rectangle-two {
+        opacity: 0.2;
+    }
+
+    .about-content h4 {
+        margin-top: 4rem;
+    }
+
+    .btn {
+        font-size: 1.4rem;
+        margin-top: 0
+    }
+
+    .btn-first {
+        width: 16rem;
+        margin-top: 0
+    }
+
+    .btn-second {
+        width: 19rem;
+        margin-top: 0;
+        margin-left: 2rem;
+    }
+
+    .section-strap h3 {
+        padding: 2rem;
+    }
+
+    .header-paragraph .rectangle-two {
+        bottom: 40rem;
+        right: 4rem;
+    }
+
+    .header-paragraph,
+    .header-position {
+        margin-bottom: 6rem;
+    }
+
+    .centrify {
+        margin: 0 auto;
+    }
+
+    .w-100 {
+        display: none;
+    }
+
+    .navigation {
+        margin-bottom: 16rem;
+    }
+
+    .section-strap {
+        height: auto;
+    }
+
+    .about-content {
+        margin-top: 0;
+        padding: 0;
+        margin-bottom: 6rem;
+
+    }
+
+    .iphone {
+        padding-top: 8rem;
+        padding-bottom: 4rem;
+    }
+
+    .cards {
+        margin-bottom: 8rem;
+    }
+
+    .section-form button {
+        margin-bottom: 8rem;
+    }
+
+    .about-content.fix {
+        padding-top: 4rem;
+    }
+
+    .about-content.fix {
+        padding-bottom: 8rem;
+    }
+
+    .blog {
+        margin-top: 8rem;
+    }
+
+    .about-content p {
+        margin-top: 5rem;
+    }
+
+    .blog-content {
+        margin-bottom: 8rem;
+    }
+
+    .carousel-text {
+        padding-right: 0;
+    }
+
+    .carousel-inner {
+        margin-top: 2rem;
+    }
+
+    .footer {
+        padding: 0
+    }
+
+    .footer {
+        padding: 4rem 2rem;
+    }
+
+    .footer .btn-second {
+        margin-top: 2rem;
+    }
+
+    .icons-container {
+        left: 1rem;
+    }
+
+    .rectangle {
+        display: none;
+    }
+
+h1{
+    font-size: 3.5rem;
+}
+    .header-paragraph .rectangle-three{
+        display: none;
+        }
+        .nav {
+            display: none;
+        }
+}
+
+@media only screen and (min-width: 577px) and (max-width: 768px) {
+    * {
+        font-size: 10px;
+    }
+    .footer h4{
+        margin-top:4rem;
+    }
+    .header {
+        background-image: url(./img/bcg-small.png);
+        min-height: 93rem
+    }
+
+    .btn {
+        font-size: 1.4rem;
+        margin-top: 4rem;
+    }
+
+    .btn-first {
+        width: 16rem;
+
+    }
+
+    .btn-second {
+        width: 20rem;
+
+        margin-left: 2rem;
+    }
+
+    .section-strap h3 {
+        padding: 2rem;
+    }
+
+    .header-paragraph .rectangle-two {
+        bottom: 40rem;
+        right: 4rem;
+        opacity: 0.2;
+    }
+
+    .centrify {
+        margin: 0 auto;
+    }
+
+    .navigation {
+        margin-bottom: 18rem;
+    }
+
+    .section-strap {
+        height: auto;
+    }
+
+    .about-content {
+        margin-top: 0;
+        padding: 0;
+        margin-bottom: 6rem;
+    }
+
+    .about-content h4 {
+        margin-top: 4rem;
+    }
+
+    .header-content h2 {
+        margin-top: 4rem
+    }
+
+    .iphone {
+        padding-top: 8rem;
+    }
+
+    .cards {
+        margin-bottom: 8rem;
+    }
+
+    .section-form button {
+        margin-bottom: 8rem;
+    }
+
+    .about-content.fix {
+        padding-top: 4rem;
+    }
+
+    .about-content.fix {
+        padding-bottom: 8rem;
+    }
+
+    .blog {
+        margin-top: 8rem;
+    }
+
+    .about-content p {
+        margin-top: 5rem;
+    }
+
+    .blog-content {
+        margin-bottom: 8rem;
+    }
+
+    .carousel-text {
+        padding-right: 0;
+    }
+
+    .carousel-inner {
+        margin-top: 2rem;
+    }
+
+    .footer {
+        padding: 0
+    }
+
+    .footer {
+        padding: 4rem 2rem;
+    }
+
+    .footer .btn-second {
+        margin-top: 2rem;
+    }
+
+    .icons-container {
+        left: 1rem;
+    }
+
+    .rectangle {
+        display: none;
+    }
+
+    h1 {
+        font-size: 4rem;
+    }
+    .header-paragraph .rectangle-three{
+        display: none;
+        }
+        .nav {
+            display: none;
+        }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+
+    form {
+        padding: 7rem;
+    }
+
+    .nav {
+        display: none;
+    }
+
+    .rectangle-one {
+        display: none;
+    }
+
+    .blog-content .rectangle-four {
+        display: none;
+    }
+    .blog-content {
+margin-bottom:10rem;
+}
+.iphone{
+    max-width:74rem;
+    margin-bottom:8rem
+}
+.header {
+    background-image: url(./img/bcg-md.png);
+  background-size: contain;
+}
+.header-paragraph .rectangle-two{
+    display: none
+}
+.about-content {
+    margin-top: 0;
+    padding: 0;
+    margin-bottom: 6rem;
+
+}
+
+.about-content p{
+    max-width:100%;
+}
+.about-content h4{
+    margin-top:4rem;
+}
+.person{
+    width:100%;
+    height:auto;
+    max-height: none;
+    margin-top:4rem
+}
+.header-paragraph .rectangle-three{
+display: none;
+}
+
+
+}
+@media only screen and (min-width: 993px) and (max-width: 1200px) { 
+    .header {
+        background-image: url(./img/bcg-lg.png);
+      background-size: contain;
+    }
+}
+
+@media only screen and (min-width: 1201px)  {
+
+    .header {
+        background-image: url(./img/bcg-lg.png);
+      background-size: contain;
+    }
+    .icons-container {
+    
+        left: -4rem;
+        
+    }
+}
